@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed4545",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "thai son": "3ty",
+        "image": "url"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69740557670593,
+          10.638918875592465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "thai son": "2ty",
+        "image": "url"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69750213623047,
+          10.63380479426233
+        ]
+      }
+    }
+  ]
+}
